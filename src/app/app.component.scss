@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn {
+    border: none;
+    padding: 10px;
+    min-width: 100px;
+    background-color: #2778b9;
+    color: white;
+    box-shadow: 1px 1px 1px #f1f1f1;
+    margin-left: 15px;
+}
+
+.btn:first-child {
+    margin-left: 0;
+}
